@@ -1,1 +1,1 @@
-# pygame-intro
+# pygame intro (setting up screen)
